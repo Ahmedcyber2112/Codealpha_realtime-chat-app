@@ -58,11 +58,7 @@ Explore the next generation of messaging with "Realtime Chat App." Communicate, 
 
 **Node version 14.x**
 
-### Cloning the repository
 
-```shell
-git clone https://github.com/codewithmawais/realtime-chat-app.git
-```
 
 ### Install packages
 
